@@ -1,8 +1,8 @@
 # 🌟 Work Readiness Digital Portfolio
 
-**Student Name:** [Your Full Name]  
-**Student Number:** [Your Student Number]  
-**Subject Code:** PRP370-1-2S  
+**Student Name:** [Thimna Gogwana]  
+**Student Number:** [222213973]  
+**Subject Code:** PRP372S  
 **Lecturer:** P. Inderlal  
 **Date:** October 2025  
 
