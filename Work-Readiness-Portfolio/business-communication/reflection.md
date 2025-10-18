@@ -3,7 +3,7 @@
 **Evidence:** Business Email Exercise & Presentation Slides  
 
 **Situation:**  
-During the Work Readiness module, I had to prepare a formal email and presentation to a simulated client.
+During the Work Readiness module, I had to prepare a formal email and presentation to a lecturee
 
 **Task:**  
 The goal was to demonstrate clear, professional written and verbal communication.
