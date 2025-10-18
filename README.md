@@ -36,4 +36,4 @@ Each section contains evidence of learning and a reflection based on the **STAR 
 ---
 
 ## 📎 Submission
-This digital portfolio was developed for the **Project Presentation 3 (PRP370S)** assessment as part of the **Diploma in ICT** program at the **Cape Peninsula University of Technology**.
+This digital portfolio was developed for the **Project Presentation 3 (PRP372S)** assessment as part of the **Diploma in ICT** program at the **Cape Peninsula University of Technology**.
