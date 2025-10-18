@@ -19,10 +19,10 @@ Each section contains evidence of learning and a reflection based on the **STAR 
 | Section | Description | Link |
 |----------|--------------|------|
 | **Business Communication** | Demonstrates my ability to communicate effectively in professional contexts. | [View Section](Work-Readiness-Portfolio/business-communication) |
-| **Interview Skills** | Highlights my preparation and strategies for interviews. | [View Section](./interview-skills) |
-| **Mock Interview** | Provides insights from my mock interview experience. | [View Section](./mock-interview) |
-| **Professional Networking** | Shows how I built and engaged with my professional network. | [View Section](./professional-networking) |
-| **Workplace Etiquette** | Reflects on professional conduct and etiquette in the workplace. | [View Section](./workplace-etiquette) |
+| **Interview Skills** | Highlights my preparation and strategies for interviews. | [View Section](Work-Readiness-Portfolio/interview-skills) |
+| **Mock Interview** | Provides insights from my mock interview experience. | [View Section](Work-Readiness-Portfolio/mock-interview) |
+| **Professional Networking** | Shows how I built and engaged with my professional network. | [View Section](Work-Readiness-Portfolio/professional-networking) |
+| **Workplace Etiquette** | Reflects on professional conduct and etiquette in the workplace. | [View Section](Work-Readiness-Portfolio/workplace-etiquette) |
 
 ---
 
