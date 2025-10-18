@@ -18,7 +18,7 @@ Each section contains evidence of learning and a reflection based on the **STAR 
 
 | Section | Description | Link |
 |----------|--------------|------|
-| **Business Communication** | Demonstrates my ability to communicate effectively in professional contexts. | [View Section](./business-communication) |
+| **Business Communication** | Demonstrates my ability to communicate effectively in professional contexts. | [View Section](Work-Readiness-Portfolio/business-communication) |
 | **Interview Skills** | Highlights my preparation and strategies for interviews. | [View Section](./interview-skills) |
 | **Mock Interview** | Provides insights from my mock interview experience. | [View Section](./mock-interview) |
 | **Professional Networking** | Shows how I built and engaged with my professional network. | [View Section](./professional-networking) |
