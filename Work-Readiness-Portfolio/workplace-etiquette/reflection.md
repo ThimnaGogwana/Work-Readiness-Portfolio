@@ -9,7 +9,7 @@ We discussed the importance of professionalism in the workplace, including commu
 I had to demonstrate understanding of workplace etiquette through examples and reflection.
 
 **Action:**  
-I practiced proper dress code, maintained punctuality, and showed respect for diversity and teamwork.
+I maintained punctuality, and showed respect for diversity and teamwork.
 
 **Result:**  
-I realized how small actions — like arriving early or showing courtesy — contribute to a positive work culture and career growth.
+I realized how small actions — like arriving early on virtual meetings and sending the required work early earns you some repsct by your hosted employer.
